@@ -1,0 +1,634 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "931102b1-6eb4-4ff2-8c34-bdb89f5a8e9e")
+	(paper "A4")
+	(lib_symbols)
+	(junction
+		(at 179.07 69.85)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "78edaef9-cd15-46ec-89a4-fc9db57c42a2")
+	)
+	(junction
+		(at 179.07 97.79)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "8c441d6c-4b8c-411d-9cc8-d10bcbf09030")
+	)
+	(wire
+		(pts
+			(xy 144.78 64.77) (xy 132.08 64.77)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1310d444-b3b4-4dbd-be22-8a77ca0de468")
+	)
+	(wire
+		(pts
+			(xy 179.07 97.79) (xy 179.07 69.85)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1f7f78e1-470a-41a1-adbf-0eb3f73135de")
+	)
+	(wire
+		(pts
+			(xy 179.07 69.85) (xy 187.96 69.85)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "256c946f-a608-4cd6-8a80-9bfce4b6ba19")
+	)
+	(wire
+		(pts
+			(xy 132.08 64.77) (xy 132.08 58.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4b63e4a7-35f7-4b27-8e28-f1e59bdca434")
+	)
+	(wire
+		(pts
+			(xy 144.78 67.31) (xy 128.27 67.31)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4b82845e-a287-4272-b95f-40b687c9656d")
+	)
+	(wire
+		(pts
+			(xy 128.27 60.96) (xy 123.19 60.96)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "52359961-dc1b-425e-bc3f-808dad23de13")
+	)
+	(wire
+		(pts
+			(xy 129.54 77.47) (xy 129.54 83.82)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "56f593d9-7fb9-405b-84a8-6e4df1f49c6b")
+	)
+	(wire
+		(pts
+			(xy 127 74.93) (xy 144.78 74.93)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5dfbe206-c28d-4b32-b29f-1e399ef36c17")
+	)
+	(wire
+		(pts
+			(xy 172.72 69.85) (xy 179.07 69.85)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6ec8e358-908a-45e0-9c9c-6b1057408a98")
+	)
+	(wire
+		(pts
+			(xy 187.96 97.79) (xy 179.07 97.79)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "773da5bd-bc03-4863-a6d3-49828923c234")
+	)
+	(wire
+		(pts
+			(xy 129.54 83.82) (xy 123.19 83.82)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7994bdca-2963-4da5-b3df-a2b99ec92828")
+	)
+	(wire
+		(pts
+			(xy 187.96 124.46) (xy 179.07 124.46)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8566cf22-2dbd-4e39-a423-2e62e5d9fcbb")
+	)
+	(wire
+		(pts
+			(xy 127 81.28) (xy 127 74.93)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "89d45aea-8ed1-4923-a1f0-592ddd15feb4")
+	)
+	(wire
+		(pts
+			(xy 144.78 77.47) (xy 129.54 77.47)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "908570aa-8639-458d-b8f9-460ac56281e6")
+	)
+	(wire
+		(pts
+			(xy 132.08 58.42) (xy 123.19 58.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a9ba9ba3-6fd9-4f6f-9d75-688beeb6dabb")
+	)
+	(wire
+		(pts
+			(xy 179.07 124.46) (xy 179.07 97.79)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b6298439-7323-4074-9e7e-39e9021ced2d")
+	)
+	(wire
+		(pts
+			(xy 128.27 67.31) (xy 128.27 60.96)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ca3809e7-0ce1-4176-9463-b67e4e66b075")
+	)
+	(wire
+		(pts
+			(xy 123.19 81.28) (xy 127 81.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ffc703ea-c161-4106-a85d-d6519d696cc0")
+	)
+	(sheet
+		(at 187.96 114.808)
+		(size 24.13 19.558)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "27e20044-1880-443b-84ee-363e99a25336")
+		(property "Sheetname" "MCU"
+			(at 187.96 114.0964 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "MCU.kicad_sch"
+			(at 187.96 134.9506 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "SIN" input
+			(at 187.96 124.46 180)
+			(uuid "c247dd28-b43f-4689-9afa-16645f68ab08")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "navtex V3"
+				(path "/ef33ebcb-d96f-402e-973d-e497fc32fa48/983d7b1c-955c-4a53-aae5-2986b2bf7fd6"
+					(page "8")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 68.326 144.78)
+		(size 22.606 21.082)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "2f142da7-399b-4a21-a3f5-d13f6ad1ce88")
+		(property "Sheetname" "POWER"
+			(at 68.326 144.0684 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "POWER.kicad_sch"
+			(at 68.326 166.4466 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "navtex V3"
+				(path "/ef33ebcb-d96f-402e-973d-e497fc32fa48/983d7b1c-955c-4a53-aae5-2986b2bf7fd6"
+					(page "9")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 187.96 60.198)
+		(size 23.368 19.304)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "4f6ceea2-dedf-4a64-92c7-fe0542567200")
+		(property "Sheetname" "DECODER"
+			(at 187.96 59.4864 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "DECODER.kicad_sch"
+			(at 187.96 80.0866 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "DATAOUT" input
+			(at 211.328 69.342 0)
+			(uuid "d1ed6429-468e-4e80-9341-5797d975b435")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "SIN" input
+			(at 187.96 69.85 180)
+			(uuid "fbe871bf-1edc-4354-99f8-891a7446997c")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "navtex V3"
+				(path "/ef33ebcb-d96f-402e-973d-e497fc32fa48/983d7b1c-955c-4a53-aae5-2986b2bf7fd6"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 93.98 73.66)
+		(size 29.21 17.78)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "557fc46d-f024-401f-99ef-e7d0e5b09e70")
+		(property "Sheetname" "OSCILATOR"
+			(at 93.98 72.9484 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "OSCILATOR.kicad_sch"
+			(at 93.98 92.0246 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "S_518KHz{slash}~{490KHz}" input
+			(at 93.98 85.852 180)
+			(uuid "e2d03b73-a70b-4dc8-a930-e16f17a5eb3b")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "OSCA" input
+			(at 123.19 81.28 0)
+			(uuid "04eec89d-ceaa-4e27-876d-3248846d7d1d")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "OSCB" input
+			(at 123.19 83.82 0)
+			(uuid "a915fc48-c403-497b-a372-c6b0344eb7c3")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "navtex V3"
+				(path "/ef33ebcb-d96f-402e-973d-e497fc32fa48/983d7b1c-955c-4a53-aae5-2986b2bf7fd6"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 144.78 59.182)
+		(size 27.94 22.225)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "6bb4f925-9016-4793-a0e8-e6ab6dde989e")
+		(property "Sheetname" "MIXER"
+			(at 144.78 58.4704 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "MIXER.kicad_sch"
+			(at 144.78 81.9916 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "AOSC" input
+			(at 144.78 74.93 180)
+			(uuid "a8f25935-4714-4202-9544-7aded23ae809")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "AS" input
+			(at 144.78 64.77 180)
+			(uuid "20d7b81a-90ba-4020-8894-538bf621f4cc")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "BOSC" input
+			(at 144.78 77.47 180)
+			(uuid "13528f51-80ef-4270-afa6-c31ea82e9db6")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "BS" input
+			(at 144.78 67.31 180)
+			(uuid "114274b0-aa55-4703-9aee-e865985f67be")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "SOUT" input
+			(at 172.72 69.85 0)
+			(uuid "4288d31f-4088-469f-82a3-fb0a2ffa1431")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "navtex V3"
+				(path "/ef33ebcb-d96f-402e-973d-e497fc32fa48/983d7b1c-955c-4a53-aae5-2986b2bf7fd6"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 187.96 88.392)
+		(size 24.384 18.796)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "d5551831-ab95-47e8-975c-27f8c108809a")
+		(property "Sheetname" "AUDIO"
+			(at 187.96 87.6804 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "AUDIO.kicad_sch"
+			(at 187.96 107.7726 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "SIN" input
+			(at 187.96 97.79 180)
+			(uuid "00ce02aa-68cc-40d0-bff4-ae2d026a84de")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "navtex V3"
+				(path "/ef33ebcb-d96f-402e-973d-e497fc32fa48/983d7b1c-955c-4a53-aae5-2986b2bf7fd6"
+					(page "7")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 97.79 52.07)
+		(size 25.4 15.24)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "faf48ee3-9930-4e51-b7b4-1d0ffcc84299")
+		(property "Sheetname" "FILTER_PREAMP"
+			(at 97.79 51.3584 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "FILTER_PREAMP.kicad_sch"
+			(at 97.79 67.8946 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "a" input
+			(at 123.19 58.42 0)
+			(uuid "31ed70ac-7b97-4c27-8ac4-23937b07b413")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "B" input
+			(at 123.19 60.96 0)
+			(uuid "bf398685-5701-4852-a07c-7a7c850db355")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "navtex V3"
+				(path "/ef33ebcb-d96f-402e-973d-e497fc32fa48/983d7b1c-955c-4a53-aae5-2986b2bf7fd6"
+					(page "3")
+				)
+			)
+		)
+	)
+)
